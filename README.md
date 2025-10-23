@@ -1,5 +1,6 @@
 # assignment
 this repository contains my c programming assignment including two objectives. 
+
 each objective contains the concepts of functions,arrays,header files and modular programming.
 # objective overview:
 # objective I-functions logic and header file
@@ -29,6 +30,5 @@ USING GCC (ON COMMAND LINE)
 
 2.run the following command:
 
-
-gcc main.c arraylib.c-./output.exe
-
+gcc main2.c arraylib.c -o output.exe
+./output.exe
