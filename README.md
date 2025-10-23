@@ -2,13 +2,13 @@
 this repository contains my c programming assignment including two objectives. 
 each objective contains the concepts of functions,arrays,header files and modular programming.
 # objective overview
-OBJECTIVE I-functions logic and header file
+# OBJECTIVE I-functions logic and header file
 files:
 mylib.h- function declarations
 mylib.c- function definitions
 main.c-use and call functions
 
-OBJECTIVE II-1-D array operations
+# OBJECTIVE II-1-D array operations
 files:
 arraylib.h-function declaration
 arraylib.c-function definition
