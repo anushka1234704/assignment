@@ -24,7 +24,9 @@ main2.c-call functions
 
 # how to compile and run
 USING GCC (ON COMMAND LINE)
+
 1.open the folder
+
 2.run the following command:
 
 
